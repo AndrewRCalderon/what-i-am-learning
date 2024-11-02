@@ -1,4 +1,4 @@
-# My Curiosity
+# My Curiosity 
 
 this is a space where i track readings, courses, videos and more that peaked my interest and sparked my curiosity.
 
@@ -15,7 +15,7 @@ this is a space where i track readings, courses, videos and more that peaked my 
 
 please do! there is an issue open where anyone can drop a recommended a resource. if you do so, i will add it to the repo and credit you
 
-# Curiosity Table
+# Curio Table
 
 | Title               | Link                           | Tags                  | Summary                                            | Credit        |
 |---------------------|--------------------------------|-----------------------|----------------------------------------------------|---------------|
