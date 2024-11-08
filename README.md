@@ -19,8 +19,8 @@ please do! there is an issue open where anyone can drop a recommended a resource
 
 | Title               | Link                           | Tags                  | Summary                                            | Credit        |
 |---------------------|--------------------------------|-----------------------|----------------------------------------------------|---------------|
-| Example Title 1     | [Link](http://example.com)     | Local, News, Community | Brief summary of the content goes here.             | Author/Source |
-| Example Title 2     | [Link](http://example.com)     | Collaboration, Design  | Another brief summary of the content.               | Author/Source |
+| Large Language Model Agents     | [Link](https://llmagents-learning.org/f24)     | AI, Free Course | LLM Agents seem to be pushing the state of the art towards techniques that seemingly shore up some of the deficiencies inherent to LLMs. In this course, you will learn theory and practice to critically assess, design and implement agents.             | Berkeley Center for Responsible, Decentralized Intelligence (RDI) |
+| 10 ways to be prepared and grounded now that Trump has won     | [Link](https://wagingnonviolence.org/2024/11/10-things-to-do-if-trump-wins/)     | Design, Resilience  |                | Waging Nonviolence, People Powered News and Analysis |
 | Example Title 3     | [Link](http://example.com)     | Ecosystem, Innovation | Summary that gives insight into the main points.    | Author/Source |
 | Example Title 4     | [Link](http://example.com)     | Informal, Structures  | Key highlights or takeaways of the article.         | Author/Source |
 
